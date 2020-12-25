@@ -5,3 +5,5 @@ Following code executes all notebooks.
 ```sh
 sh run.sh
 ```
+
+CI via GitHub Action automatically tests that notebooks run through without error.
