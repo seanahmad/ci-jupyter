@@ -1,2 +1,3 @@
+black-nb
 jupyterlab
 papermill

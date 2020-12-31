@@ -12,6 +12,14 @@ Following code executes all notebooks.
 sh run.sh
 ```
 
+**Lint**
+
+Following code applies black to all notebooks.
+
+```sh
+sh lint.sh
+```
+
 **Jupyter gitignore**
 
 ```
