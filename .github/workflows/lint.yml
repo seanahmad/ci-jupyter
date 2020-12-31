@@ -40,4 +40,4 @@ jobs:
 
     - name: Black
       run: |
-        black-nb --check
+        black-nb --check .
